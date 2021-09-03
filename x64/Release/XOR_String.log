@@ -1,0 +1,11 @@
+﻿  XOR_String.cpp
+C:\Users\dev\Desktop\Code\CPP\Encryption\XOR_String\XOR_String.cpp(54,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\dev\Desktop\Code\CPP\Encryption\XOR_String\XOR_String.cpp(75,67): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dev\Desktop\Code\CPP\Encryption\XOR_String\XOR_String.cpp(76,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\dev\Desktop\Code\CPP\Encryption\XOR_String\XOR_String.cpp(59,7): warning C4101: 'modified': unreferenced local variable
+  Generating code
+  2 of 6 functions (33.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  XOR_String.vcxproj -> C:\Users\dev\Desktop\Code\CPP\Encryption\XOR_String\x64\Release\XOR_String.exe
